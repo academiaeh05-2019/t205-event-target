@@ -1,0 +1,12 @@
+section div{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.vermelho{
+    background-color: red;
+}
